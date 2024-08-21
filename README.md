@@ -48,6 +48,6 @@ Feel free to explore my repositories to see detailed implementations and contrib
 
 I’m always open to new opportunities and collaborations. Feel free to connect with me:
 
-- **Email:** [Your Email Address](mailto:amandeep@cybercomcreation.com)
+- **Email:** [amandeep@cybercomcreation.com](mailto:amandeep@cybercomcreation.com)
 
 Thank you for visiting my profile!
